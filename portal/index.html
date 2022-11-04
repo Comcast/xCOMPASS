@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="code.js"></script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Models of Applied Privacy</h1>
+
+<div id="overall">
+
+<div id="left">
+
+</div>
+
+<div id="center">
+
+
+<p>As we try to reach privacy maturity, we need to think about high-level, systematic threats to an application that goes beyond privacy compliance. Privacy personas can be a team-exercise to think about overall threats after completing a privacy impact assessment, and before moving into the main threat modeling process. Existing privacy threat modeling frameworks rely on partial asset-centric threats, can be time-consuming to implement due to their expansive nature, and need domain-knowledge expertise. We draw from prior literature to create a privacy threat modeling persona framework that developers can use to test and document privacy threats from their overall application. This tool, in addition to privacy impact assessments, can find edge cases of privacy harm. This framework can be used either as (i) a table-top card game for privacy threat modeling, or (ii) portal for generating personas automatically.</p>
+
+<h1> Structure </h1>
+<p>In terms of structure, the framework has three main components: (i) Threat Actor (characteristics and expertise), (ii) Threat Mechanism, and (iii) Threat Impact. There are four major categories each in the Threat Actor and Threat Impact component. There are ten categories under the Threat Mechanism component, which can be expanded as necessary. These categories are intentionally broad to account for different threats within each category. The overall framework structure is shown below. For more information on each of the categories, see <a href="../personacards/">here</a>.</p>
+<p><img id="framework" src="..\figures\Threat-Framework.jpeg" alt="Overall Threat Model"></p>
+  <h1> Features </h1>
+<p><strong>Flexible:</strong> The framework outline makes it easier to add and delete categories as required. For example, if there is a need to add an expert sub-type to a threat actor category, it is easy to create. Similarly, if there are sub-types in threat mechanisms that are not applicable, for example, disclosure of information, since it may be covered under security threat mechanisms, it can be removed with changing the structure of the framework.</p>
+<p><strong>Scalable:</strong> The components of the framework form a piece-wise architecture. Thus, it is easy for developers to pick a sub-type from each category and create a persona. If a template is created based on each category, a developer can select one item from each category to automatically generate a persona if desired.</p>
+<p><strong>Customizable:</strong> The framework is independent of industry type and scale. This makes the generated personas easy to customize. For instance, if a developer or a threat modeler selects one item from each of the three component categories, they can customize the resulting persona based on their industry requirements.</p>
+<p><strong>Moving away from an attacker-only approach:</strong> Literature on security personas have majorly focused on adversarial personas since a majority of security threats originate from attackers. However, there are both malicious and benign threat actors who might cause privacy breaches. This framework addresses both kinds of threat actors across different scenarios.</p>
+
+
+<br> 
+<button id="portal" type="button" class="button" onclick="location.href='portal.html'">Portal</button>
+<br>
+
+<br>
+<p>More information about this project and the table-top card version of the game can be found below in our GitHub repository.</p>
+<br>
+
+<button id="github" type="button" class="button" onclick="location.href='<INSERT GITHUB LINK>'">GitHub</button>
+<button id="github" type="button" class="button" onclick="location.href='<INSERT GITHUB CARDGAME LINK>'">Table-top Card Game</button>
+
+<p>For additional information or if you would like to access the white paper, please contact us.</p>
+ 
+
+</div> 
+
+
+<div id="right">
+</div>
+</div>
+<footer>  
+Developed by <a href="https://corporate.comcast.com/ccs-research" title="Comcast Cybersecurity Research">Comcast Cybersecurity Research</a>   
+</footer> 
+</body>
+</html>

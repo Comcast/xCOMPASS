@@ -1,0 +1,76 @@
+h1, body {
+  font-family: system-ui; /*XfinityStandard, Helvetica, Arial, sans-serif;*/
+  font-weight: 400; 
+  text-align:center;
+}
+#overall {
+  display: flex;
+}
+#left, #right {
+  float: left;
+  width:15%;
+  background-color: #E9E9E9;
+}
+#center {
+  width:70%;
+  margin:auto;
+  padding: 1%;
+}
+p {
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 16px;
+}  
+h1, h4 {
+  color: #645FAA;
+}
+.button {
+  background-color: #645FAA; 
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-weight:300;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: 2px solid #645FAA;
+  height: 50px;
+  font-family: system-ui;
+  font-size: 16px;
+}
+.sel {
+  height: 50px;
+  width: 32.8%;
+  /*margin: 4px 2px;*/
+  border: 2px solid;
+  border-color:  #645FAA;
+  font-family: system-ui;
+  font-size: 16px;
+}
+#cards, #personas {
+  margin:auto;
+}
+#display {
+  text-align: unset;
+}
+iframe {
+  width: 32.5%;
+  height:210px;
+  /*margin: 4px 2px;*/
+  overflow-y: hidden;
+}
+fieldset {
+  border: 2px solid #645FAA;
+}
+legend { 
+  color: #645FAA;
+}  
+#framework {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: fit-content;
+  width: 80%;
+}
