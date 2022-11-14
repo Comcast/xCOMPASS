@@ -27,4 +27,6 @@ In terms of structure, the framework has three main components: (i) Threat Actor
 
 **Moving away from an attacker-only approach:** Literature on security personas have majorly focused on adversarial personas since a majority of security threats originate from attackers. However, there are both malicious and benign threat actors who might cause privacy breaches. This framework addresses both kinds of threat actors across different scenarios. 
 
+   <h1> License </h1>
    
+Licensed under [Apache 2.0](https://github.com/Comcast/MAP/blob/main/LICENSE-Apache-2.0).
