@@ -1,10 +1,8 @@
 # Models of Applied Privacy - MAP
 
-Existing privacy threat modeling frameworks rely on partial asset-centric threats, can be time-consuming to implement due to their expansive nature, and need domain-knowledge expertise. We draw from prior literature to create a privacy threat modeling persona framework that developers can use to test and document privacy threats from their overall application. This tool, in addition to privacy impact assessments, can find edge cases of privacy harm. This framework can be used either as (i) a table-top card game for privacy threat modeling, or (ii) portal for generating personas automatically. 
+Existing privacy threat modeling frameworks rely on partial asset-centric threats, can be time-consuming to implement due to their expansive nature, and need domain-knowledge expertise. We draw from prior literature to create a privacy threat modeling persona framework that developers can use to test and document privacy threats from their overall application. This tool, in addition to privacy impact assessments, can find edge cases of privacy harm. This framework can be used either as a table-top card game for privacy threat modeling. 
 
 The cards for the card game, with instructions, is available here: <a href="personacards/">Persona Cards</a>.
-
-The portal for easy selection of components is available here: <a href="portal/">Portal</a>. 
 
 For additional information or if you would like to access the white paper, please contact the repository owners. 
 
