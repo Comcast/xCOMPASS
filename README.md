@@ -5,7 +5,9 @@ Existing privacy threat modeling frameworks rely on partial asset-centric threat
 
 The cards for the card game, with instructions, is available here: <a href="personacards/">Persona Cards</a>.
 
-For additional information or if you would like to access the white paper, please contact the repository owners. 
+Each persona is linked to several practical questions that a threat modeler can ask during sessions with product teams. The questionnaire, along with linked personas are available <a href="COMPASS.md">here</a>.
+
+For additional information or if you would like to access the paper, please contact the repository owners. 
 
   <h1> Why do we need personas? </h1> 
 As we try to reach privacy maturity, we need to think about high-level, systematic threats to an application that goes beyond privacy compliance. Privacy personas can be a team-exercise to think about overall threats after completing a privacy impact assessment, and before moving into the main threat modeling process. 
