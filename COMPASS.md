@@ -11,7 +11,7 @@ The following categories of information often come with special legislative prot
 |---|
 | **Biometric   data**: Does the application collect biometric data?  |
 |  **Children   data**: Does the application collect data from youth   under 16? |
-| **CPNI**: Does the application contain CPNI data?  _CPNI or Customer Proprietary Network Information, is the data collected by telecommunications companies about their customer's calls._  |
+| **CPNI**: Does the application contain CPNI data?  _CPNI or Customer Proprietary Network Information, is the data collected by telecommunications companies about subscribers._  |
 |  **Voice and   Video**: Does the application collect voice or video  data? |
 
 <h2> COMPASS Questionnaire </h2>
