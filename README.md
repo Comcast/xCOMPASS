@@ -5,7 +5,7 @@ Existing privacy threat modeling frameworks rely on partial asset-centric threat
 
 The cards for the card game, with instructions, is available here: <a href="personacards/">Persona Cards</a>.
 
-<b>Each persona is linked to several practical questions that a threat modeler can ask during sessions with product teams. The questionnaire, called COMPASS, along with linked personas are available <a href="COMPASS.md">here</a>.</b>
+<b>Each persona is linked to several practical questions that a threat modeler can ask during sessions with product teams. The questionnaire, called COMPASS, along with linked personas are available <a href="COMPASS/">here</a>.</b>
 
 For additional information or if you would like to access the paper, please contact the repository owners. 
 
