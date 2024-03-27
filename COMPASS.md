@@ -15,7 +15,7 @@ The following categories of information often come with special legislative prot
 |  **Voice and   Video**: Does the application collect voice or video  data? |
 
 <h2> COMPASS Questionnaire </h2>
-The threats are categorized by FIPPs (Fair Information Practice Principles), the principles which guide privacy regulation, developed in 1974. This makes it easy to understand which threat category a question falls under. Each question has a persona linked - if you would like to see an example persona for each combination listed here, use <a href="personas.md">this</a> link.
+The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FIPPs (Fair Information Practice Principles)</a>, the principles which guide privacy regulation. This makes it easy to understand which threat category a question falls under. Each question has a persona linked - if you would like to see an example persona for each combination listed here, use <a href="personas.md">this</a> link.
 
 <h3> Accountability and Auditing </h3>
 
