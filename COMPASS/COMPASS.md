@@ -21,8 +21,8 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 <table>
 <thead>
   <tr>
-    <th>Persona</th>
-    <th>Question</th>
+    <th>Threat Persona</th>
+    <th>Control Questions</th>
     <th>Privacy Design Strategies for Mitigation</th>
   </tr>
 </thead>
@@ -54,8 +54,8 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 <table>
 <thead>
   <tr>
-    <th>Persona</th>
-    <th>Question</th>
+    <th>Threat Persona</th>
+    <th>Control Questions</th>
     <th>Privacy Design Strategies for Mitigation</th>
   </tr>
 </thead>
@@ -81,8 +81,8 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 <table>
 <thead>
   <tr>
-    <th>Persona</th>
-    <th>Question</th>
+    <th>Threat Persona</th>
+    <th>Control Questions</th>
     <th>Privacy Design Strategies for Mitigation</th>
   </tr>
 </thead>
@@ -104,8 +104,8 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 <table>
 <thead>
   <tr>
-    <th>Persona</th>
-    <th>Question</th>
+    <th>Threat Persona</th>
+    <th>Control Questions</th>
     <th>Privacy Design Strategies for Mitigation</th>
   </tr>
 </thead>
@@ -137,8 +137,8 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 <table>
 <thead>
   <tr>
-    <th>Persona</th>
-    <th>Question</th>
+    <th>Threat Persona</th>
+    <th>Control Questions</th>
     <th>Privacy Design Strategies for Mitigation</th>
   </tr>
 </thead>
@@ -165,8 +165,8 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 <table>
 <thead>
   <tr>
-    <th>Persona</th>
-    <th>Question</th>
+    <th>Threat Persona</th>
+    <th>Control Questions</th>
     <th>Privacy Design Strategies for Mitigation</th>
   </tr>
 </thead>
@@ -220,8 +220,8 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 <table>
 <thead>
   <tr>
-    <th>Persona</th>
-    <th>Question</th>
+    <th>Threat Persona</th>
+    <th>Control Questions</th>
     <th>Privacy Design Strategies for Mitigation</th>
   </tr>
 </thead>
@@ -249,8 +249,8 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 <table>
 <thead>
   <tr>
-    <th>Persona</th>
-    <th>Question</th>
+    <th>Threat Persona</th>
+    <th>Control Questions</th>
     <th>Privacy Design Strategies for Mitigation</th>
   </tr>
 </thead>
@@ -279,8 +279,8 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 <table>
 <thead>
   <tr>
-    <th>Persona</th>
-    <th>Question</th>
+    <th>Threat Persona</th>
+    <th>Control Questions</th>
     <th>Privacy Design Strategies for Mitigation</th>
   </tr>
 </thead>
