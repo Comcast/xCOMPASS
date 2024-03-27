@@ -1,5 +1,18 @@
-<h2>Appendix: MAP Personas Reference</h2>
+<h2>COMPASS Personas Reference</h2>
 This is a mapping from personas to different impact and mitigation categories for reference. 
+
+<h3>P1</h3>
+<b>Actor: </b>Inside Aggressive (Expert) - <i>Inside Attacker</i> <br>
+<b>Mechanism: </b>Identifiability<br>
+
+Pineapple is an employee who has an ex-spouse who is also a customer of the company. Pineapple is able to access internal company records to find their partner's information, including their new address. Pineapple is now able to stalk their ex-spouse using this information.<br><br>
+<b>Real-world breach:</b> <a href="https://slate.com/technology/2013/09/loveint-how-nsa-spies-snooped-on-girlfriends-lovers-and-first-dates.html">https://slate.com/technology/2013/09/loveint-how-nsa-spies-snooped-on-girlfriends-lovers-and-first-dates.html</a>
+
+<b>Impact</b>
+1. Autonomy (Individuals): Unable to make choices free from influence.
+2. Physical (Individuals): Suffer bodily harm
+3. Reputational (Organization): Loss of consumer trust or standing in community 
+
 
 <table>
 <thead>
