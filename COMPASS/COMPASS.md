@@ -28,7 +28,7 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 </thead>
 <tbody>
   <tr>
-    <td rowspan="3"><a href="COMPASS/personas.md#p2">Inside Aggressive,<br>Non-compliance</a><br><br><br></td>
+    <td rowspan="3"><a href="personas.md#p2">Inside Aggressive,<br>Non-compliance</a><br><br><br></td>
     <td>Are changes to application code attributed and logged? This code can be present on GitHub, AWS, Databricks, or any other platform.</td>
     <td rowspan="5">Privacy Logging and Reporting</td>
   </tr>
