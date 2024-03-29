@@ -185,7 +185,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </table>
 
 
-   <h3>P10</h3>
+<h3>P10</h3>
 <table>
 <thead>
   <tr>
@@ -206,7 +206,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </table>
 
 
-     <h3>P11</h3>
+<h3>P11</h3>
 <table>
 <thead>
   <tr>
@@ -227,7 +227,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </table>
 
 
-    <h3>P12</h3>
+<h3>P12</h3>
 <table>
 <thead>
   <tr>
@@ -249,7 +249,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 
   
 
-     <h3>P13</h3>
+<h3>P13</h3>
 <table>
 <thead>
   <tr>
@@ -270,7 +270,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </table>
 
 
-     <h3>P14</h3>
+<h3>P14</h3>
 <table>
 <thead>
   <tr>
@@ -290,8 +290,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </tbody>
 </table>
 
-
-    <h3>P15</h3>
+<h3>P15</h3>
 <table>
 <thead>
   <tr>
@@ -312,7 +311,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </table>
  
 
-     <h3>P16</h3>
+<h3>P16</h3>
 <table>
 <thead>
   <tr>
