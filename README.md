@@ -2,12 +2,10 @@
 
 
 Existing privacy threat modeling frameworks rely on partial asset-centric threats, can be time-consuming to implement due to their expansive nature, and need domain-knowledge expertise. We draw from prior literature to create a privacy threat modeling persona framework that developers can use to test and document privacy threats from their overall application. This tool, in addition to privacy impact assessments, can find edge cases of privacy harm. This framework can be used either as a table-top card game for privacy threat modeling. 
-
+<h3> Learn more about privacy threat personas</h3>
 The cards for the card game, with instructions, is available here: <a href="personacards/">Persona Cards</a>.
-
-<b>Each persona is linked to several practical questions that a threat modeler can ask during sessions with product teams. The questionnaire, called COMPASS, along with linked personas are available <a href="COMPASS/">here</a>.</b>
-
-For additional information or if you would like to access the paper, please contact the repository owners. 
+<h3> Take a privacy threat modeling assessment </h3>
+<b>Each persona is linked to several practical questions that a threat modeler can ask during sessions with product teams. The questionnaire, called COMPASS, along with linked personas are available <a href="COMPASS/">here</a>.</b> For additional information or if you would like to access the paper, please contact the repository owners. 
 
   <h1> Why do we need personas? </h1> 
 As we try to reach privacy maturity, we need to think about high-level, systematic threats to an application that goes beyond privacy compliance. Privacy personas can be a team-exercise to think about overall threats after completing a privacy impact assessment, and before moving into the main threat modeling process. Personas help by contextualizing the threat - since <a href="https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581484">over 80% privacy threats come from non-malicious sources<a>, we need to have a persona-specific approach to identifying threats. 
@@ -28,6 +26,13 @@ In terms of structure, the framework has three main components: (i) Threat Actor
 
 **Moving away from an attacker-only approach:** Literature on security personas have majorly focused on adversarial personas since a majority of security threats originate from attackers. However, there are both malicious and benign threat actors who might cause privacy breaches. This framework addresses both kinds of threat actors across different scenarios. 
 
+  <h1> How to contribute? </h1>
+We welcome all kinds of contributions, especially: 
+
+- Additional personas beyond those already in [COMPASS.md](/COMPASS/COMPASS.md), using the different combinations from the framework above.
+- Specific use cases of MAP (please create a new folder for each use case) in your industry, even if hypothetical. 
+- Changes to COMPASS language, typos, fixes, etc. 
+  
    <h1> License </h1>
    
 Licensed under [Apache 2.0](https://github.com/Comcast/MAP/blob/main/LICENSE-Apache-2.0).
