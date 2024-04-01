@@ -62,7 +62,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </tbody>
 </table>
   
-  <h3>P4</h3>
+  <h3 id="P4">P4</h3>
 <table>
 <thead>
   <tr>
