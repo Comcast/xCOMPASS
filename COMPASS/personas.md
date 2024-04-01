@@ -1,7 +1,7 @@
 <h2>COMPASS Personas Reference</h2>
 This is a mapping from personas to different impact and mitigation categories for reference. 
 
-<h3>P1</h3>
+<h3 id="P1">P1</h3>
 
 <table>
 <thead>
@@ -22,7 +22,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </tbody>
 </table>
 
-<h3>P2</h3>
+<h3 id="P2">P2</h3>
 <table>
 <thead>
   <tr>
@@ -42,7 +42,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </tbody>
 </table>
 
-<h3>P3</h3>
+<h3 id="P3">P3</h3>
 <table>
 <thead>
   <tr>
@@ -82,7 +82,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </tbody>
 </table>
     
- <h3>P5</h3>
+ <h3 id="P5">P5</h3>
 <table>
 <thead>
   <tr>
@@ -102,7 +102,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </tbody>
 </table>
 
-<h3>P6</h3>
+<h3 id="P6">P6</h3>
 <table>
 <thead>
   <tr>
@@ -123,7 +123,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </table>
 
 
- <h3>P7</h3>
+ <h3 id="P7">P7</h3>
 <table>
 <thead>
   <tr>
@@ -144,7 +144,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </table>
 
 
- <h3>P8</h3>
+ <h3 id="P8">P8</h3>
 <table>
 <thead>
   <tr>
@@ -164,7 +164,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </tbody>
 </table>
 
-   <h3>P9</h3>
+   <h3 id="P9">P9</h3>
 <table>
 <thead>
   <tr>
@@ -185,7 +185,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </table>
 
 
-<h3>P10</h3>
+<h3 id="P10">P10</h3>
 <table>
 <thead>
   <tr>
@@ -206,7 +206,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </table>
 
 
-<h3>P11</h3>
+<h3 id="P11">P11</h3>
 <table>
 <thead>
   <tr>
@@ -227,7 +227,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </table>
 
 
-<h3>P12</h3>
+<h3 id="P12">P12</h3>
 <table>
 <thead>
   <tr>
@@ -249,7 +249,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 
   
 
-<h3>P13</h3>
+<h3 id="P13">P13</h3>
 <table>
 <thead>
   <tr>
@@ -270,7 +270,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </table>
 
 
-<h3>P14</h3>
+<h3 id="P14">P14</h3>
 <table>
 <thead>
   <tr>
@@ -290,7 +290,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </tbody>
 </table>
 
-<h3>P15</h3>
+<h3 id="P15">P15</h3>
 <table>
 <thead>
   <tr>
@@ -311,7 +311,7 @@ This is a mapping from personas to different impact and mitigation categories fo
 </table>
  
 
-<h3>P16</h3>
+<h3 id="P16">P16</h3>
 <table>
 <thead>
   <tr>
