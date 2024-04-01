@@ -16,7 +16,7 @@ The following categories of information often come with special legislative prot
 <h2> COMPASS Questionnaire </h2>
 The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FIPPs (Fair Information Practice Principles)</a>, the principles which guide privacy regulation. This makes it easy to understand which threat category a question falls under. Each question has a persona linked - if you would like to see an example persona for each combination listed here, use <a href="personas.md">this</a> link.
 
-<h3> Accountability and Auditing </h3>
+<h3 id="-accountability-and-auditing-"> Accountability and Auditing </h3>
 
 <table>
 <thead>
@@ -49,7 +49,7 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 </tbody>
 </table>
 
-<h3> Data Quality and Integrity</h3>
+<h3 id="-data-quality-and-integrity"> Data Quality and Integrity</h3>
 
 <table>
 <thead>
@@ -76,7 +76,7 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 </tbody>
 </table>
 
-<h3>Use Limitation</h3>
+<h3 id="use-limitation">Use Limitation</h3>
 
 <table>
 <thead>
@@ -100,7 +100,7 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 </tbody>
 </table>
 
-<h3>Data Minimization</h3>
+<h3 id="data-minimization">Data Minimization</h3>
 <table>
 <thead>
   <tr>
@@ -133,7 +133,7 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 </tbody>
 </table>
 
-<h3>Transparency</h3>
+<h3 id="transparency">Transparency</h3>
 <table>
 <thead>
   <tr>
@@ -161,7 +161,7 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 </tbody>
 </table>
 
-<h3>Security</h3>
+<h3 id="security">Security</h3>
 <table>
 <thead>
   <tr>
@@ -216,7 +216,7 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 </tbody>
 </table>
 
-<h3>Purpose Specification</h3>
+<h3 id="purpose-specification">Purpose Specification</h3>
 <table>
 <thead>
   <tr>
@@ -275,7 +275,7 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 </tbody>
 </table>
 
-<h3>Third-party Sharing</h3>
+<h3 id="third-party-sharing">Third-party Sharing</h3>
 <table>
 <thead>
   <tr>
