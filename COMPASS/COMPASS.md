@@ -244,7 +244,7 @@ The threats are categorized by <a href="https://www.fpc.gov/resources/fipps/">FI
 </tbody>
 </table>
 
-<h3>Individual Participation</h3>
+<h3 id="individual-participation">Individual Participation</h3>
 
 <table>
 <thead>
