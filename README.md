@@ -5,7 +5,7 @@ Existing privacy threat modeling frameworks rely on partial asset-centric threat
 <h3> Learn more about privacy threat personas</h3>
 The cards for the card game, with instructions, is available here: <a href="personacards/">Persona Cards</a>.
 <h3> Take a privacy threat modeling assessment </h3>
-<b>Each persona is linked to several practical questions that a threat modeler can ask during sessions with product teams. The questionnaire, called xCOMPASS, along with linked personas are available <a href="COMPASS/">here</a>.</b> For additional information or if you would like to access the paper, please contact the repository owners. 
+<b>Each persona is linked to several practical questions that a threat modeler can ask during sessions with product teams. The questionnaire, called xCOMPASS, along with linked personas are available <a href="xCOMPASS/">here</a>.</b> For additional information or if you would like to access the paper, please contact the repository owners. 
 
   <h1> Why do we need personas? </h1> 
 As we try to reach privacy maturity, we need to think about high-level, systematic threats to an application that goes beyond privacy compliance. Privacy personas can be a team-exercise to think about overall threats after completing a privacy impact assessment, and before moving into the main threat modeling process. Personas help by contextualizing the threat - since <a href="https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581484">over 80% privacy threats come from non-malicious sources<a>, we need to have a persona-specific approach to identifying threats. 
