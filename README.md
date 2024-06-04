@@ -1,4 +1,3 @@
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Comcast/xCompass/badge)](https://securityscorecards.dev/viewer/?uri=github.com/Comcast/xCompass)
 
 
 Existing privacy threat modeling frameworks rely on partial asset-centric threats, can be time-consuming to implement due to their expansive nature, and need domain-knowledge expertise. We draw from prior literature to create a privacy threat modeling persona framework that developers can use to test and document privacy threats from their overall application. This tool, in addition to privacy impact assessments, can find edge cases of privacy harm. This framework can be used either as a table-top card game for privacy threat modeling. 
