@@ -32,7 +32,7 @@ We welcome all kinds of contributions, especially:
 
 - Additional personas beyond those already in [xCOMPASS.md](/xCOMPASS/personas.md), using the different combinations from the framework above.
 - Specific use cases of MAP (please create a new folder for each use case) in your industry, even if hypothetical. 
-- Changes to COMPASS language, typos, fixes, etc. 
+- Changes to xCOMPASS language, typos, fixes, etc. 
 
 <h1> List of Publications & Talks </h1>
 
