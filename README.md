@@ -1,11 +1,12 @@
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Comcast/xCompass/badge)](https://securityscorecards.dev/viewer/?uri=github.com/Comcast/xCompass)
 
+  <h1> Privacy Framework for Threat Modeling and Privacy Requirements </h1> 
 
 Existing privacy threat modeling frameworks rely on partial asset-centric threats, can be time-consuming to implement due to their expansive nature, and need domain-knowledge expertise. We draw from prior literature to create a privacy threat modeling persona framework that developers can use to test and document privacy threats from their overall application. This tool, in addition to privacy impact assessments, can find edge cases of privacy harm. This framework can be used either as a table-top card game for privacy threat modeling. 
 <h3> Learn more about privacy threat personas</h3>
 The cards for the card game, with instructions, is available here: <a href="personacards/">Persona Cards</a>.
 <h3> Take a privacy threat modeling assessment </h3>
-<b>Each persona is linked to several practical questions that a threat modeler can ask during sessions with product teams. The questionnaire, called xCOMPASS, along with linked personas are available <a href="xCOMPASS/">here</a>.</b> For additional information or if you would like to access the paper, please contact the repository owners. 
+<b>Each persona is linked to several practical questions that a threat modeler can ask during sessions with product teams. These questions are not only useful to generate a set of privacy requirements (as early as the product design phase), but also link the requirements with privacy principles. The questionnaire, called xCOMPASS, along with linked personas are available <a href="xCOMPASS/">here</a>.</b> For additional information, please check out the <a href="https://github.com/Comcast/xCompass/edit/main/README.md#-list-of-publications--talks-">list of publications</a> below. 
 
   <h1> Why do we need personas? </h1> 
 As we try to reach privacy maturity, we need to think about high-level, systematic threats to an application that goes beyond privacy compliance. Privacy personas can be a team-exercise to think about overall threats after completing a privacy impact assessment, and before moving into the main threat modeling process. Personas help by contextualizing the threat - since <a href="https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581484">over 80% privacy threats come from non-malicious sources<a>, we need to have a persona-specific approach to identifying threats. 
@@ -32,7 +33,13 @@ We welcome all kinds of contributions, especially:
 - Additional personas beyond those already in [xCOMPASS.md](/xCOMPASS/personas.md), using the different combinations from the framework above.
 - Specific use cases of MAP (please create a new folder for each use case) in your industry, even if hypothetical. 
 - Changes to COMPASS language, typos, fixes, etc. 
-  
-   <h1> License </h1>
+
+<h1> List of Publications & Talks </h1>
+
+Jayati Dev, Bahman Rashidi, Vaibhav Garg. [Models of Applied Privacy (MAP): A Persona Based Approach to Threat Modeling.](https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581484) In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23).
+
+Rahmadi Trimananda. [The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!](https://www.usenix.org/conference/soups2024/technical-sessions) USENIX SOUPS 2024 Lightning Talks. 
+
+  <h1> License </h1>
    
 Licensed under [Apache 2.0](https://github.com/Comcast/MAP/blob/main/LICENSE-Apache-2.0).
