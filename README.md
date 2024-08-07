@@ -28,11 +28,13 @@ In terms of structure, the framework has three main components: (i) Threat Actor
 **Moving away from an attacker-only approach:** Literature on security personas have majorly focused on adversarial personas since a majority of security threats originate from attackers. However, there are both malicious and benign threat actors who might cause privacy breaches. This framework addresses both kinds of threat actors across different scenarios. 
 
   <h1> How to contribute? </h1>
-We welcome all kinds of contributions, especially: 
+We welcome all kinds of contributions to threat personas, especially:
 
 - Additional personas beyond those already in [xCOMPASS.md](/xCOMPASS/personas.md), using the different combinations from the framework above.
-- Specific use cases of MAP (please create a new folder for each use case) in your industry, even if hypothetical. 
-- Changes to xCOMPASS language, typos, fixes, etc. 
+- Specific use cases of MAP (please create a new folder for each use case) in your industry, even if hypothetical.
+- Changes to language, typos, fixes, etc.
+
+However, if you have other ideas, albeit simple, please do not hesitate to connect with us. For contribution to xCOMPASS questionnaire, please find more information [here](https://github.com/Comcast/xCompass/edit/main/xCOMPASS/README.md#-how-to-contribute-).
 
 <h1> List of Publications & Talks </h1>
 
