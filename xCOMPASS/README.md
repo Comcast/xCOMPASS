@@ -37,3 +37,12 @@ The categories defined in xCOMPASS are the following:
 9. <a href="xCOMPASS.md#third-party-sharing">Third-party Sharing</a>
 
 The full questionnaire is available <a href="xCOMPASS.md"> here</a>. Each question has a persona linked - if you would like to see an example persona for each combination listed here, use <a href="personas.md">this</a> link.
+
+<h2> How to contribute? </h2>
+We welcome all kinds of contributions to xCOMPASS questionnaire, especially: 
+
+- Changes to xCOMPASS questions, language, typos, fixes, etc.
+- Deeper dive into privacy design strategies.
+- Linking to other principles beyond FIPPS.
+
+However, if you have other ideas, albeit simple, please do not hesitate to connect with us.
