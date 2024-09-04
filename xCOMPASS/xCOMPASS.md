@@ -161,7 +161,7 @@ The questions are categorized by <a href="https://www.fpc.gov/resources/fipps/">
 <tbody>
   <tr>
     <td><a href="personas.md#p7">Inside Neutral,<br>Unawareness</a></td>
-    <td>Can a user request a copy of their data for download? <br /> <i>Answer "Yes" if your app allows a user to download a copy of their data (e.g., user can download the data collected by the app locally to their laptop or mobile device).</i></td><br /><br /> Are organizational retention policies followed for storing user data? <br /> <i>Answer "Yes" if your app follows organization policies on data retention (e.g., data have to be deleted at the end of the retention period).</i></td>
+    <td>Can a user request a copy of their data for download? <br/> <i>Answer "Yes" if your app allows a user to download a copy of their data (e.g., user can download the data collected by the app locally to their laptop or mobile device).</i><br/><br/> Are organizational retention policies followed for storing user data? <br /> <i>Answer "Yes" if your app follows organization policies on data retention (e.g., data have to be deleted at the end of the retention period).</i></td>
     <td>Access (U.2.2), Rectification/erasure (U.2.3)</td>
     <td>Consumer Control</td>
   </tr>
