@@ -137,7 +137,7 @@ The questions are categorized by <a href="https://www.fpc.gov/resources/fipps/">
   <tr>
     <td><a href="personas.md#p8">Inside Neutral,<br>Non-compliance</a></td>
     <td>Is the information that a developer/owner of the application can view provided on a need to know basis? <br /> <i>Answer "Yes" if there is access control for app owner/developer when viewing personal information (e.g., a developer, depending on their role, may or may not view user/customer data).</i><br /><br /> Is access regularly updated if change in role occurs? <br /> <i>Answer "Yes" if policies for access control are updated accordingly for every role/organizational change (e.g., a developer that transitions to a different project/department should no longer have access).</i></td>
-    <td>Privacy Logging and Reporting, (Encryption), (Access Control)</td>
+    <td>Privacy Logging and Reporting, Encryption, Access Control</td>
   </tr>
   <tr>
     <td><a href="personas.md#p6">Inside Neutral,<br>Identifiability</a></td>
@@ -174,7 +174,7 @@ The questions are categorized by <a href="https://www.fpc.gov/resources/fipps/">
   <tr>
     <td><a href="personas.md#p15">Outside Neutral,<br>Unanticipated Revelation</a></td>
     <td>Does the output of your application present one users information to another without notifying (even in an aggregate or de-identified form)? <br /> <i>Answer "Yes" if your app shares personal information of a user to another user without notifying the first user that owns that PI. For example, a notification may be two beeps or a different beep for an event when their data is being shared. Note that organization cannot disclose consumers' electronic communications (e.g., phone calls, email, Internet transmissions) to anyone other than the intended recipient.</i></td>
-    <td>Data De-identification, (Access Control)</td>
+    <td>Data De-identification, Access Control</td>
   </tr>
 </tbody>
 </table>
@@ -194,7 +194,7 @@ The questions are categorized by <a href="https://www.fpc.gov/resources/fipps/">
     <td><a href="personas.md#p2">Inside Aggressive,<br>Non-compliance</a></td>
     <td>Are personal information records backed up in case of accidental deletion? <br /> <i>Answer "Yes" if your app backs up personal information records. This can be in the form of a secondary backup database/storage.</i></td>
     <td>Improper personal data management (Nc.2)</td>
-    <td>Privacy Logging and Reporting (Backup)</td>
+    <td>Privacy Logging and Reporting, Backup</td>
   </tr>
   <tr>
     <td rowspan="5"><a href="personas.md#p13">Outside Neutral,<br>Identifiability</a></td>
@@ -217,12 +217,12 @@ The questions are categorized by <a href="https://www.fpc.gov/resources/fipps/">
   <tr>
     <td><a href="personas.md#p1">Inside Aggressive,<br>Identifiability</a></td>
     <td>Would an unauthorized employee be able to access identifiable data of other users through your application? <br /> <i>Answer "Yes" if the app allows an unauthorized employee to access collected data (e.g., anyone who does not a have a job-related purpose for viewing user data).</i></td>
-    <td>(Access Control)</td>
+    <td>Access Control</td>
   </tr>
   <tr>
     <td><a href="personas.md#p5">Inside Neutral,<br>Non-compliance</a></td>
     <td>Is personal information stored in plaintext in any part of your application? <br /> <i>Answer "Yes" if your app stores personal information in plaintext. This includes FIPPS standards for both encryption at rest and in transit. Datastores containing Social Security Numbers must meet or exceed organization encryption standards. More information about encryption design patterns can be found <a href="https://www.cs.ru.nl/~jhh/publications/pds-booklet.pdf">here</a>. </i><br /><br /> Do you employ the recommended encryption approaches throughout your application compliant with organization policy? <br /> <i>Answer "Yes" if your app employs the recommended encryption approaches and it is compliant with organization policy. This includes FIPPS standards for both encryption at rest and in transit. Datastores containing Social Security Numbers must meet or exceed organization encryption standards. More information about encryption design patterns can be found <a href="https://www.cs.ru.nl/~jhh/publications/pds-booklet.pdf">here</a>.</i>
-    <td>(Encryption)</td>
+    <td>Encryption</td>
   </tr>
   <tr>
     <td><a href="personas.md#p6">Inside Neutral, <br>Identifiability</a></td>
