@@ -294,11 +294,12 @@ The questions are categorized by <a href="https://www.fpc.gov/resources/fipps/">
   <tr>
     <td><a href="personas.md#p7">Inside Neutral,<br>Unawareness</a></td>
     <td>If there is a personal data deletion or modification request, would it be possible to implement it across the application? <br /> <i>Answer "Yes" if your app accomodates deletion/modification request for collected data. For example, when there is deletion request, the application can automatically remove records from all databases, servers, and other containers, including third party transfers. There should be clear description of how to request a deletion or modification.</i></td>
+    <td>Rectification/erasure (U.2.3)</td>
   </tr>
   <tr>
     <td><a href="personas.md#p11">Outside Neutral,<br>Non-compliance</a></td>
     <td>Does your application automatically pull information from the user or their device without consent? <br /> <i>Answer "Yes" if your app automatically collects data from users without asking for consent. Note that for "full informed consent", it should be (a) clearly indicated by a user by performing an action, like checking a box or clicking a button, (b) have specific details on what is being collected and who will be receiving the information, and (b) be freely given without coercion.</i><br /><br /> Is it possible that this automatic collection may include data that is not needed for the functionality of your application? <br /> <i>Answer "Yes" if your app also automatically collect data other than for functionality. Note that for "full informed consent", it should be (a) clearly indicated by a user by performing an action, like checking a box or clicking a button, (b) have specific details on what is being collected and who will be receiving the information, and (b) be freely given without coercion.</i></td>
-    <td>Rectification/erasure (U.2.3), Preferences (U.2.1)</td>
+    <td>Preferences (U.2.1)</td>
     <td>Data Reduction, Transparency and Disclosure</td>
   </tr>
 </tbody>
