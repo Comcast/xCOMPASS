@@ -143,7 +143,7 @@ The questions are categorized by <a href="https://www.fpc.gov/resources/fipps/">
     <td><a href="personas.md#p6">Inside Neutral,<br>Identifiability</a></td>
     <td>Does any component in your application contain links? <br /> <i>Answer "Yes" if your app or any of its components contains links (e.g., URL).</i><br /><br /> Do these links redirect to any personal information without requiring authentication? <br /> <i>Answer "Yes" if there is no authentication before the redirection occurs (e.g., user does not have to sign in before getting redirected).</i></td>
     <td>Insufficient cybersecurity risk management (Nc.3)</td>
-    <td>Data De-identification, (Access Control)</td>
+    <td>Data De-identification, Access Control</td>
   </tr>
 </tbody>
 </table>
