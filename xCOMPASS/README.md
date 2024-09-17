@@ -45,4 +45,4 @@ We welcome all kinds of contributions to xCOMPASS questionnaire, especially:
 - Deeper dive into privacy design strategies.
 - Linking to other principles beyond FIPPS.
 
-However, if you have other ideas, albeit simple, please do not hesitate to connect with us.
+However, if you have other ideas, albeit simple, please do not hesitate to connect with us. Please also have a look at more instructions to commit your contribution in [CONTRIBUTING.md](https://github.com/Comcast/xCompass/blob/main/CONTRIBUTING.md).
