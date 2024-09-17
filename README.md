@@ -34,7 +34,7 @@ We welcome all kinds of contributions to threat personas, especially:
 - Specific use cases of MAP (please create a new folder for each use case) in your industry, even if hypothetical.
 - Changes to language, typos, fixes, etc.
 
-However, if you have other ideas, albeit simple, please do not hesitate to connect with us. For contribution to xCOMPASS questionnaire, please find more information [here](https://github.com/Comcast/xCompass/edit/main/xCOMPASS/README.md#-how-to-contribute-).
+However, if you have other ideas, albeit simple, please do not hesitate to connect with us. For contribution to xCOMPASS questionnaire, please find more information [here](https://github.com/Comcast/xCompass/edit/main/xCOMPASS/README.md#-how-to-contribute-). Please also have a look at more instructions to commit your contribution in [CONTRIBUTING.md](https://github.com/Comcast/xCompass/blob/main/CONTRIBUTING.md).
 
 <h1> List of Publications & Talks </h1>
 
