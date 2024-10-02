@@ -13,7 +13,7 @@ As we try to reach privacy maturity, we need to think about high-level, systemat
   
 In terms of structure, the framework has three main components: (i) Threat Actor (characteristics and expertise), (ii) Threat Mechanism, and (iii) Threat Impact. The overall framework structure is shown below. The categories have been developed by combining existing frameworks like <a href="https://www.linddun.org/linddun">LINDDUN</a>, <a href="https://www.nist.gov/privacy-framework/nist-pram">NIST Risk Assessment Methodology<a>, and <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782222">Privacy Harm Taxonomy</a>. 
 
-![Overall Threat Model](figures/Threat-Framework.jpeg)
+![Overall Threat Model](https://github.com/Comcast/xCOMPASS/blob/main/figures/Threat-Framework.jpeg)
 
   <h1> Features </h1>
   
@@ -33,17 +33,3 @@ We welcome all kinds of contributions to threat personas, especially:
 - Changes to language, typos, fixes, etc.
 
 However, if you have other ideas, albeit simple, please do not hesitate to connect with us. For contribution to xCOMPASS questionnaire, please find more information [here](https://github.com/Comcast/xCompass/edit/main/xCOMPASS/README.md#-how-to-contribute-). Please also have a look at more instructions to commit your contribution in [CONTRIBUTING.md](https://github.com/Comcast/xCompass/blob/main/CONTRIBUTING.md).
-
-<h1> List of Publications & Talks </h1>
-
-Jayati Dev, Bahman Rashidi, Vaibhav Garg. [Models of Applied Privacy (MAP): A Persona Based Approach to Threat Modeling.](https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581484) In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23).
-
-Rahmadi Trimananda. [The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!](https://www.usenix.org/conference/soups2024/technical-sessions) USENIX SOUPS 2024 Lightning Talks.
-
-Rahmadi Trimananda. [The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!](https://lascon.org/speakers/) OWASP LASCON 2024.
-
-Rahmadi Trimananda. [The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!](https://digitalprivacy.ieee.org/events/digital-privacy-workshop) IEEE Digital Privacy Workshop 2024.
-
-  <h1> License </h1>
-   
-Licensed under [Apache 2.0](https://github.com/Comcast/MAP/blob/main/LICENSE-Apache-2.0).
