@@ -11,7 +11,7 @@ As we try to reach privacy maturity, we need to think about high-level, systemat
   
 In terms of structure, the framework has three main components: (1) Threat Actor (characteristics and expertise), (2) Threat Mechanism, and (3) Threat Impact. The overall framework structure is shown below. The categories have been developed by combining existing frameworks like <a href="https://www.linddun.org/linddun">LINDDUN</a>, <a href="https://www.nist.gov/privacy-framework/nist-pram">NIST Risk Assessment Methodology<a>, and <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782222">Privacy Harm Taxonomy</a>. 
 
-![Overall Threat Model](https://github.com/Comcast/xCOMPASS/blob/main/figures/Threat-Framework.jpeg)
+![Overall Threat Model](https://github.com/Comcast/xCOMPASS/blob/main/personas/figures/Threat-Framework.jpeg)
 
   <h1> Features </h1>
   
