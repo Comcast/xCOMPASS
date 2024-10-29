@@ -1,8 +1,6 @@
-Personas are helpful when thinking about privacy threats to an application as a whole. It provides a bird's eye view of threats - you will not need a data flow diagram at this stage. 
+<h1> Persona Creation </h1>
 
-This is a table-top game to model privacy threats based on the Personas Framework. 
-
-<h1> How to Create a Persona </h1>
+Personas are helpful when thinking about privacy threats to an application as a whole. It provides a bird's eye view of threats - you will not need a data flow diagram at this stage. This is a table-top game to model privacy threats based on the Personas Framework. 
 
 ![How to Diagram](../figures/howto.jpg)
 
