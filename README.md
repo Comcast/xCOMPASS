@@ -8,7 +8,7 @@
 For more information, please follow these links:
 
 - [xCOMPASS Questionnaire](https://github.com/Comcast/xCOMPASS/tree/main/questionnaire)
-- [Models of Applied Privacy (MAP) personas](https://github.com/Comcast/xCOMPASS/tree/main/personas)
+- [MAP personas](https://github.com/Comcast/xCOMPASS/tree/main/personas)
 
 # Quickstart
 
