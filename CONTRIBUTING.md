@@ -18,7 +18,7 @@ Once your PR is issued, we will review your work and decide on adding it to the 
 
 For more details about contributing to GitHub projects see [How to use Github: Fork, Branch, Track, Squash and Pull Request](http://gun.io/blog/how-to-github-fork-branch-and-pull-request/)
 
-# How to Contribute to xCOMPASS GitHub Repository?
+# How to Contribute to This Repository?
 
 We welcome all kinds of contributions to this framework, especially:
 
