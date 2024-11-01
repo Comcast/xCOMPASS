@@ -1,11 +1,17 @@
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Comcast/xCompass/badge)](https://securityscorecards.dev/viewer/?uri=github.com/Comcast/xCompass)
 
-  <h1> xCOMPASS (COMcast Privacy ASSistant) </h1> 
+<h1> xCOMPASS (COMcast Privacy ASSistant) </h1> 
 
 <img align="right" src="https://github.com/Comcast/xCOMPASS/blob/main/personas/figures/compass-logo-png.png">
 <div align="justify">xCOMPASS is a questionnaire developed from <a href='https://github.com/Comcast/xCOMPASS/tree/main/personas'>Models of Applied Privacy (MAP)</a> personas. Privacy Threat Modeling (PTM) is part of software development lifecycle (SDL) along with the increasing awareness of data privacy. Unfortunately, PTM comes with the following limitations. First, it mostly involves human experts (i.e., threat modelers) with much manual effort. Second, it is usually performed later in the SDL pipeline, during which much development work has been finished. Third, the app developer is usually not familiar with privacy principles (e.g., privacy laws) that can guide the development process. To address these problems, xCOMPASS presents a lightweight questionnaire (i.e., yes-no questions), identifies privacy requirements based on the answers, and maps the requirements to privacy principles (e.g., privacy laws) and mitigation strategies (e.g., de-identification).</div>
 
-  <h1> How to contribute? </h1>
+<h1> Learn More </h1>
+Please feel free to learn more about the questionnaire questions, as well as MAP framework by following these links:
+
+- [xCOMPASS Questionnaire](https://github.com/Comcast/xCOMPASS/tree/main/questionnaire)
+- [Models of Applied Privacy (MAP) personas](https://github.com/Comcast/xCOMPASS/tree/main/personas)
+
+<h1> How to Contribute? </h1>
 We welcome all kinds of contributions to this framework, especially:
 
 - Changes to xCOMPASS questions, language, typos, fixes, etc.
@@ -17,22 +23,31 @@ We welcome all kinds of contributions to this framework, especially:
 
 However, if you have other ideas, albeit simple, please do not hesitate to connect with us. For contribution to xCOMPASS questionnaire, please find more information [here](https://github.com/Comcast/xCompass/edit/main/xCOMPASS/README.md#-how-to-contribute-). Please also have a look at more instructions to commit your contribution in [CONTRIBUTING.md](https://github.com/Comcast/xCompass/blob/main/CONTRIBUTING.md).
 
-  <h1> Learn More </h1>
-Please feel free to learn more about the questionnaire questions, as well as MAP framework by following these links:
+<h1> Maintainers </h1>
 
-- [xCOMPASS Questionnaire](https://github.com/Comcast/xCOMPASS/tree/main/questionnaire)
-- [Models of Applied Privacy (MAP) personas](https://github.com/Comcast/xCOMPASS/tree/main/personas)
+The list of maintainers of this GitHub repository is available in [MAINTAINERS.md](https://github.com/Comcast/xCOMPASS/blob/main/MAINTAINERS.md).
 
-<h1> List of Publications & Talks </h1>
+<h1> Roadmap </h1>
+
+Roadmap information is available in [ROADMAP.md](https://github.com/Comcast/xCOMPASS/blob/main/ROADMAP.md).
+
+<h1> List of Publications </h1>
 
 Jayati Dev, Bahman Rashidi, Vaibhav Garg. [Models of Applied Privacy (MAP): A Persona Based Approach to Threat Modeling.](https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581484) In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23).
 
-Rahmadi Trimananda. [The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!](https://www.usenix.org/conference/soups2024/technical-sessions) USENIX SOUPS 2024 Lightning Talks.
+<h1> List of Talks </h1>
 
-Rahmadi Trimananda. [The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!](https://lascon.org/speakers/) OWASP LASCON 2024.
+- Rahmadi Trimananda. [The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!](https://www.usenix.org/conference/soups2024/technical-sessions) USENIX SOUPS 2024 Lightning Talks.
+- Rahmadi Trimananda. [The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!](https://digitalprivacy.ieee.org/events/digital-privacy-workshop) IEEE Digital Privacy Workshop 2024.
+- Rahmadi Trimananda. [The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!](https://lascon.org/speakers/) OWASP LASCON 2024.
 
-Rahmadi Trimananda. [The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!](https://digitalprivacy.ieee.org/events/digital-privacy-workshop) IEEE Digital Privacy Workshop 2024.
+<h1> Visibility on Other Websites </h1>
+xCOMPASS has been proudly listed as an open-sourced privacy engineering requirements identification tool on various websites including:
 
-  <h1> License </h1>
+- [NIST Privacy Risk Assessment Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/privacy-risk-assessment/tools)
+- [CISA Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/services/xcompass)
+- [OWASP Free for Open Source Application Security Tools](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools)
+
+<h1> License </h1>
    
 Licensed under [Apache 2.0](https://github.com/Comcast/MAP/blob/main/LICENSE-Apache-2.0).
