@@ -1,4 +1,4 @@
-# How to Contribute
+# General Guidelines for Contribution
 
 Thank you for considering helping out!
 
@@ -8,17 +8,30 @@ First, please read the [code of conduct](https://github.com/Comcast/Comcast.gith
 
 Next, if you want to help out, do the following:
 
-1. Fork the project.
-2. Make a feature branch with the name of your change.
-3. Make a change.
-4. Commit your code.
-5. Issue a Pull Request.
+- Fork the project.
+- Make a feature branch with the name of your change.
+- Make a change.
+- Commit your code.
+- Issue a Pull Request.
 
 Once your PR is issued, we will review your work and decide on adding it to the project!
 
 For more details about contributing to GitHub projects see [How to use Github: Fork, Branch, Track, Squash and Pull Request](http://gun.io/blog/how-to-github-fork-branch-and-pull-request/)
 
-## Contributor License Agreement
+# How to Contribute to xCOMPASS GitHub Repository?
+
+We welcome all kinds of contributions to this framework, especially:
+
+- Changes to xCOMPASS questions, language, typos, fixes, etc.
+- Deeper dive into privacy design strategies.
+- Linking to other principles beyond FIPPS.
+- Additional personas beyond those already in [xCOMPASS.md](/xCOMPASS/personas.md), using the different combinations from the framework above.
+- Specific use cases of MAP (please create a new folder for each use case) in your industry, even if hypothetical.
+- Changes to language, typos, fixes, etc.
+
+However, if you have other ideas, albeit simple, please do not hesitate to connect with us. For contribution to xCOMPASS questionnaire, please find more information [here](https://github.com/Comcast/xCompass/edit/main/xCOMPASS/README.md#-how-to-contribute-).
+
+# Contributor License Agreement
 
 Before Comcast merges your code into the project you must sign the [Comcast Contributor License Agreement (CLA)](https://gist.github.com/ComcastOSS/a7b8933dd8e368535378cda25c92d19a).
 
