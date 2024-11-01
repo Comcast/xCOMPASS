@@ -3,11 +3,9 @@
 # xCOMPASS (COMcast Privacy ASSistant)
 
 <img align="right" src="https://github.com/Comcast/xCOMPASS/blob/main/personas/figures/compass-logo-png.png">
-<div align="justify">xCOMPASS is a questionnaire developed from <a href='https://github.com/Comcast/xCOMPASS/tree/main/personas'>Models of Applied Privacy (MAP)</a> personas. Privacy Threat Modeling (PTM) is part of software development lifecycle (SDL) along with the increasing awareness of data privacy. Unfortunately, PTM comes with the following limitations. First, it mostly involves human experts (i.e., threat modelers) with much manual effort. Second, it is usually performed later in the SDL pipeline, during which much development work has been finished. Third, the app developer is usually not familiar with privacy principles (e.g., privacy laws) that can guide the development process. To address these problems, xCOMPASS presents a lightweight questionnaire (i.e., yes-no questions), identifies privacy requirements based on the answers, and maps the requirements to privacy principles (e.g., privacy laws) and mitigation strategies (e.g., de-identification).</div>
+<div align="justify">xCOMPASS is a questionnaire developed from <a href='https://github.com/Comcast/xCOMPASS/tree/main/personas'>Models of Applied Privacy (MAP)</a> personas. Privacy Threat Modeling (PTM) is part of software development lifecycle (SDL) along with the increasing awareness of data privacy. Unfortunately, PTM comes with the following limitations. First, it mostly involves human experts (i.e., threat modelers) with much manual effort. Second, it is usually performed later in the SDL pipeline, during which much development work has been finished. Third, the app developer is usually not familiar with privacy principles (e.g., privacy laws) that can guide the development process. To address these problems, xCOMPASS presents a lightweight questionnaire (i.e., yes-no questions), identifies privacy requirements based on the answers, and maps the requirements to privacy principles (e.g., privacy laws) and mitigation strategies (e.g., de-identification).</div> 
 
-## Learn More
-
-Please feel free to learn more about the questionnaire questions, as well as MAP framework by following these links:
+For more information, please follow these links:
 
 - [xCOMPASS Questionnaire](https://github.com/Comcast/xCOMPASS/tree/main/questionnaire)
 - [Models of Applied Privacy (MAP) personas](https://github.com/Comcast/xCOMPASS/tree/main/personas)
