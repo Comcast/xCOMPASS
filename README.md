@@ -3,16 +3,18 @@
 # xCOMPASS (COMcast Privacy ASSistant)
 
 <img align="right" src="https://github.com/Comcast/xCOMPASS/blob/main/personas/figures/compass-logo-png.png">
-<div align="justify">xCOMPASS is a <a href='https://github.com/Comcast/xCOMPASS/tree/main/questionnaire'>questionnaire</a> developed from <a href='https://github.com/Comcast/xCOMPASS/tree/main/personas'>Models of Applied Privacy (MAP)</a> personas. Privacy Threat Modeling (PTM) is part of software development lifecycle (SDL) along with the increasing awareness of data privacy. Unfortunately, PTM comes with the following limitations. First, it mostly involves human experts (i.e., threat modelers) with much manual effort. Second, it is usually performed later in the SDL pipeline, during which much development work has been finished. Third, the app developer is usually not familiar with privacy principles (e.g., privacy laws) that can guide the development process. To address these problems, xCOMPASS presents a lightweight questionnaire (i.e., yes-no questions), identifies privacy requirements based on the answers, and maps the requirements to privacy principles (e.g., privacy laws) and mitigation strategies (e.g., de-identification). </div><br>
+<div align="justify">xCOMPASS is a <a href='https://github.com/Comcast/xCOMPASS/tree/main/questionnaire'>questionnaire</a> developed from <a href='https://github.com/Comcast/xCOMPASS/tree/main/personas'>Models of Applied Privacy (MAP)</a> personas. It consists of a set of questions, each requiring a "Yes" or "No" answer. If the questionnaire is filled out according to the design and specifications of an application, it can help identify privacy engineering requirements specific to the application. </div><br>
 
-For more information, please follow these links:
+# Quickstart
+
+To learn more, please follow these links:
 
 - [xCOMPASS questionnaire](https://github.com/Comcast/xCOMPASS/tree/main/questionnaire)
 - [MAP personas](https://github.com/Comcast/xCOMPASS/tree/main/personas)
 
-# Quickstart
+In this repository, you can also find [an Excel spreadsheet (xCOMPASS Spreadsheet v1.0.xlsx)](https://github.com/Comcast/xCOMPASS/blob/main/xCOMPASS%20Spreadsheet%20v1.0.xlsx) containing xCOMPASS questionnaire that you can use to identify privacy engineering requirements for your application. It uses simple Excel spreadsheet formulas to automatically evaluate your answers. Please watch the following 42-second video for a demo of the spreadsheet.
 
-Please stay tuned! This section is a work in progress. :grin:
+https://github.com/user-attachments/assets/d2b5592d-6909-4dd8-976c-a2b79b95a586
 
 # Why Do We Need It
 
@@ -24,17 +26,34 @@ Privacy Threat Modeling (PTM) is part of software development lifecycle (SDL) al
 
 To address these limitations, we created xCOMPASS, an open-sourced framework that presents a solution that does not require much expertise/training in privacy domain to identify privacy engineering requirements during PTM. 
 
-1. xCOMPASS presents a lightweight questionnaire (i.e., yes-no questions),
-2. identifies privacy requirements based on the answers, and
-3. maps the requirements to privacy principles (e.g., privacy laws) and mitigation strategies (e.g., de-identification).
+1. xCOMPASS presents a lightweight questionnaire (i.e., yes-no questions).
+2. It identifies privacy requirements based on the answers.
+3. It maps the requirements to privacy principles (e.g., privacy laws) and mitigation strategies (e.g., de-identification).
 
 # Who Can Benefit
 
-Please stay tuned! This section is a work in progress. :grin:
+We designed xCOMPASS for people who are not privacy experts. It can benefit people in the following roles:
+
+- Application developers
+- Product designers
+- Managers and organization leaders
+
+Meanwhile, it certainly can also benefit privacy experts, such as:
+
+- Security and privacy engineers
+- Data protection engineers
+- Data governance engineers
+
+and others that work with an application and would like to identify privacy engineering requirements for the application.
 
 # What I Can Do with It
 
-Please stay tuned! This section is a work in progress. :grin:
+xCOMPASS can be used in (but not limited to) the following use cases:
+
+- A developer or a team of developers that create a new application that collects personal information.
+- A developer or a team of developers that maintains applications that collect and store personal information.
+- A privacy engineer that analyzes and maintains privacy engineering requirements for systems and applications.
+- A data protection/governance engineer that works on protocols for data collection and usage in an organization.
 
 # Contribution
 
