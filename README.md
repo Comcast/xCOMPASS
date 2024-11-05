@@ -2,7 +2,7 @@
 
 # xCOMPASS (COMcast Privacy ASSistant)
 
-<img align="right" src="https://github.com/Comcast/xCOMPASS/blob/main/personas/figures/compass-logo-png.png">
+<img align="right" style="width:20%" src="https://github.com/Comcast/xCOMPASS/blob/main/personas/figures/compass-logo-png.png">
 <div align="justify">xCOMPASS is a <a href='https://github.com/Comcast/xCOMPASS/tree/main/questionnaire'>questionnaire</a> developed from <a href='https://github.com/Comcast/xCOMPASS/tree/main/personas'>Models of Applied Privacy (MAP)</a> personas. It consists of a set of questions, each requiring a "Yes" or "No" answer. If the questionnaire is filled out according to the design and specifications of an application, it can help identify privacy engineering requirements specific to the application. </div><br>
 
 # Quickstart
