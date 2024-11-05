@@ -14,6 +14,20 @@ For more information, please follow these links:
 
 Please stay tuned! This section is a work in progress. :grin:
 
+# Why Do We Need It
+
+Privacy Threat Modeling (PTM) is part of software development lifecycle (SDL) along with the increasing awareness of data privacy. Unfortunately, PTM comes with the following limitations. 
+
+1. It mostly involves human experts (i.e., threat modelers) with much manual effort.
+2. It is usually performed later in the SDL pipeline, during which much development work has been finished.
+3. App developers are usually not familiar with privacy principles (e.g., privacy laws) that can guide the development process.
+
+To address these limitations, we created xCOMPASS, an open-sourced framework that presents a solution that does not require much expertise/training in privacy domain to identify privacy engineering requirements during PTM. 
+
+1. xCOMPASS presents a lightweight questionnaire (i.e., yes-no questions),
+2. identifies privacy requirements based on the answers, and
+3. maps the requirements to privacy principles (e.g., privacy laws) and mitigation strategies (e.g., de-identification).
+
 # Who Can Benefit
 
 Please stay tuned! This section is a work in progress. :grin:
