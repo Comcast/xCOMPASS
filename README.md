@@ -3,7 +3,7 @@
 # xCOMPASS (COMcast Privacy ASSistant)
 
 <img align="right" style="width:20%" src="https://github.com/Comcast/xCOMPASS/blob/main/personas/figures/compass-logo-png.png">
-<div align="justify">xCOMPASS is a <a href='https://github.com/Comcast/xCOMPASS/tree/main/questionnaire'>questionnaire</a> developed from <a href='https://github.com/Comcast/xCOMPASS/tree/main/personas'>Models of Applied Privacy (MAP)</a> personas. It consists of a set of questions, each requiring a "Yes" or "No" answer. If the questionnaire is filled out according to the design and specifications of an application, it can help identify privacy engineering requirements specific to the application. </div><br>
+<div align="justify">xCOMPASS is a <a href='https://github.com/Comcast/xCOMPASS/tree/main/questionnaire'>questionnaire</a> developed from <a href='https://github.com/Comcast/xCOMPASS/tree/main/personas'>Models of Applied Privacy (MAP)</a> personas. It consists of a set of questions, each requiring a "Yes" or "No" answer. Depending on the answers to the questions (based on the specifications of an application), the questionnaire is meant to help developers identify privacy engineering requirements specific to the application. </div><br>
 
 # Quickstart
 
@@ -18,10 +18,10 @@ https://github.com/user-attachments/assets/d2b5592d-6909-4dd8-976c-a2b79b95a586
 
 # Why Do We Need It
 
-Privacy Threat Modeling (PTM) is part of software development lifecycle (SDL) along with the increasing awareness of data privacy. Unfortunately, PTM comes with the following limitations. 
+It is key to identify privacy engineering requirements as early as possible in the software development lifecycle (SDL) of an application, preferrably when the application is being designed to incorporate privacy into its designed, namely privacy-by-design strategy. Unfortunately, identifying such requirements is challenging, mostly due to the following factors: 
 
 1. It mostly involves human experts (i.e., threat modelers) with much manual effort.
-2. It is usually performed later in the SDL pipeline, during which much development work has been finished.
+2. It is usually performed later in the SDL process, during which much development work has been finished.
 3. App developers are usually not familiar with privacy principles (e.g., privacy laws) that can guide the development process.
 
 To address these limitations, we created xCOMPASS, an open-sourced framework that presents a solution that does not require much expertise/training in privacy domain to identify privacy engineering requirements during PTM. 
@@ -79,7 +79,7 @@ Jayati Dev, Bahman Rashidi, Vaibhav Garg. [Models of Applied Privacy (MAP): A Pe
 
 # Visibility on Other Websites
 
-xCOMPASS has been proudly listed as an open-sourced privacy engineering requirements identification tool on various websites including:
+xCOMPASS has been proudly listed as an open-sourced privacy engineering requirements identification tool on various websites, including:
 
 - [NIST Privacy Risk Assessment Tools](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/privacy-risk-assessment/tools)
 - [CISA Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/services/xcompass)
