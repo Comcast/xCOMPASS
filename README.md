@@ -14,7 +14,7 @@ To learn more, please follow these links:
 
 In this repository, you can also find [an Excel spreadsheet (xCOMPASS Spreadsheet v1.0.xlsx)](https://github.com/Comcast/xCOMPASS/blob/main/xCOMPASS%20Spreadsheet%20v1.0.xlsx) containing xCOMPASS questionnaire that you can use to identify privacy engineering requirements for your application. It uses simple Excel spreadsheet formulas to automatically evaluate your answers. Please watch the following 42-second video for a demo of the spreadsheet.
 
-https://github.com/user-attachments/assets/d2b5592d-6909-4dd8-976c-a2b79b95a586
+https://github.com/user-attachments/assets/6ab382fc-6e57-4b1f-b032-7fda6d47cd01
 
 # Why Do We Need It
 
