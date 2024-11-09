@@ -2,7 +2,7 @@
 <thead>
   <tr style="width:40%">
     <td><img src="../personas/figures/compass-logo-png.png" alt="compass logo"></td>
-    <td>xCOMPASS is a tool that can be used by developers to identify privacy engineering requirements for their application, preferrably at the beginning of software development lifecycle (SDL). Before diving into specific requirements, the following scoping questions might be helpful during a discussion session. This is because the existence of personal information must be known, even if it is managed and is not an active threat. Team must ensure that these are properly handled when they exist, and reviews are done for special categories of such information.</td>
+    <td>xCOMPASS is a tool that can be used by developers to identify privacy engineering requirements for their application, preferrably at the beginning of software development lifecycle (SDL). Before diving into specific requirements, the following scoping questions might be helpful during a discussion session. This is because the existence of personal information must be known, even if it is managed and is not an active threat. Developers must ensure that these are properly handled when they exist, and reviews are done for special categories of such information.</td>
   </tr>
 </thead>
 </table>
@@ -21,10 +21,8 @@ The following categories of information often come with special legislative prot
 | **CPNI**: Does the application contain CPNI data? <br /> *Answer "Yes" if the app collects/contains CPNI (Customer Proprietary Network Information), e.g., IP/MAC address. Generally, the use of CPNI data is limited to specific purposes. It cannot be used for marketing that a customer has not opted into.* |
 | **Voice and Video**: Does the application collect voice or video data? <br /> *Answer "Yes" if the app collects voice/video data. Generally, voice data cannot be used for advertisement purposes, even if collected by or for a third-party partner. Organization must have an individual’s prior, written permission before collecting or recording any audio/visual or other sensor data from within their dwelling. For both video and voice data, specific consent obligations must be met. Please consult Privacy Legal for additional information.*|
 
-<h2> xCOMPASS Questionnaire </h2>
-The privacy engineering requirements are categorized by <a href="https://www.fpc.gov/resources/fipps/">FIPPs (Fair Information Practice Principles)</a>, the principles which guide privacy regulation. This makes it easy to understand which category a question falls under. 
-
-The categories defined in xCOMPASS are the following:
+# xCOMPASS Questionnaire
+The privacy engineering requirements are categorized by <a href="https://www.fpc.gov/resources/fipps/">FIPPs (Fair Information Practice Principles)</a>, the principles which guide privacy regulation. This makes it easy to understand which category a question falls under. The categories are the following:
 
 1. <a href="xCOMPASS.md#-accountability-and-auditing-">Accountability and Auditing</a>
 2. <a href="xCOMPASS.md#-data-quality-and-integrity">Data Quality and Integrity</a>
