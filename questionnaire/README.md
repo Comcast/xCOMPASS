@@ -2,7 +2,7 @@
 <thead>
   <tr style="width:40%">
     <td><img src="../personas/figures/compass-logo-png.png" alt="compass logo"></td>
-    <td>xCOMPASS is a tool that can be used by developers to identify privacy engineering requirements for their application at any phase during software development lifecycle (SDL). Before diving into specific requirements, the following scoping questions might be helpful during a discussion session. This is because the existence of personal information must be known, even if it is managed and is not an active threat. Team must ensure that these are properly handled when they exist, and reviews are done for special categories of such information.</td>
+    <td>xCOMPASS is a tool that can be used by developers to identify privacy engineering requirements for their application, preferrably at the beginning of software development lifecycle (SDL). Before diving into specific requirements, the following scoping questions might be helpful during a discussion session. This is because the existence of personal information must be known, even if it is managed and is not an active threat. Team must ensure that these are properly handled when they exist, and reviews are done for special categories of such information.</td>
   </tr>
 </thead>
 </table>
