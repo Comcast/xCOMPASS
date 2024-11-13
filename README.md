@@ -3,16 +3,11 @@
 # xCOMPASS (COMcast Privacy ASSistant)
 
 <img align="right" style="width:20%" src="https://github.com/Comcast/xCOMPASS/blob/main/personas/figures/compass-logo-png.png">
-<div align="justify">xCOMPASS is a <a href='https://github.com/Comcast/xCOMPASS/tree/main/questionnaire'>questionnaire</a> developed to identify privacy engineering requirements. It consists of a set of questions, each requiring a "Yes" or "No" answer. Depending on the answers to the questions (based on the specifications of an application), the questionnaire is meant to help developers identify privacy engineering requirements specific to the application. </div><br>
+<div align="justify">xCOMPASS is a framework developed to identify privacy engineering requirements. It consists of a <a href='https://github.com/Comcast/xCOMPASS/tree/main/questionnaire'>set of questions</a> that help help developers identify privacy engineering requirements specific to their application. </div><br>
 
 # Quickstart
 
-To learn more, please follow these links:
-
-- [xCOMPASS questionnaire](https://github.com/Comcast/xCOMPASS/tree/main/questionnaire)
-- [MAP personas](https://github.com/Comcast/xCOMPASS/tree/main/personas)
-
-In this repository, you can also find [an Excel spreadsheet (xCOMPASS Spreadsheet v1.0.xlsx)](https://github.com/Comcast/xCOMPASS/blob/main/xCOMPASS%20Spreadsheet%20v1.0.xlsx) containing xCOMPASS questionnaire that you can use to identify privacy engineering requirements for your application. It uses simple Excel spreadsheet formulas to automatically evaluate your answers. Please watch the following 42-second video for a demo of the spreadsheet.
+To learn more, please visit [xCOMPASS questionnaire page](https://github.com/Comcast/xCOMPASS/tree/main/questionnaire). In this repository, you can also find [an Excel spreadsheet (xCOMPASS Spreadsheet v1.0.xlsx)](https://github.com/Comcast/xCOMPASS/blob/main/xCOMPASS%20Spreadsheet%20v1.0.xlsx) containing xCOMPASS questionnaire that you can use to identify privacy engineering requirements for your application. It uses simple Excel spreadsheet formulas to automatically evaluate your answers. Please watch the following 42-second video for a demo of the spreadsheet.
 
 https://github.com/user-attachments/assets/6ab382fc-6e57-4b1f-b032-7fda6d47cd01
 
@@ -30,7 +25,7 @@ To address these limitations, we created xCOMPASS, an open-sourced framework tha
 2. It identifies privacy requirements based on the answers.
 3. It maps the requirements to privacy principles (e.g., privacy laws) and mitigation strategies (e.g., de-identification).
 
-# Who Can Benefit
+# Who Can Benefit & How
 
 We designed xCOMPASS for people who are not privacy experts. It can benefit people in the following roles:
 
@@ -45,8 +40,6 @@ Meanwhile, it certainly can also benefit privacy experts, such as:
 - Data governance engineers
 
 and others that work with an application and would like to identify privacy engineering requirements for the application.
-
-# What I Can Do with It
 
 xCOMPASS can be used in (but not limited to) the following use cases:
 
@@ -75,9 +68,9 @@ Jayati Dev, Bahman Rashidi, Vaibhav Garg. [Models of Applied Privacy (MAP): A Pe
 
 - Rahmadi Trimananda. [The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!](https://www.usenix.org/conference/soups2024/technical-sessions) USENIX SOUPS 2024 Lightning Talks.
 - Rahmadi Trimananda. [The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!](https://digitalprivacy.ieee.org/events/digital-privacy-workshop) IEEE Digital Privacy Workshop 2024.
-- Rahmadi Trimananda. [The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!](https://lascon.org/speakers/) OWASP LASCON 2024.
+- Rahmadi Trimananda. [The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!](https://lascon.org/past-lascon-2024/) OWASP LASCON 2024.
 
-# Visibility on Other Websites
+# Institutions Featuring xCOMPASS
 
 xCOMPASS has been proudly listed as an open-sourced privacy engineering requirements identification tool on various websites, including:
 
