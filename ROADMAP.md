@@ -15,7 +15,7 @@ While a feature may not be listed here, it doesn't imply automatic refusal of a 
 | [Tooltip texts](https://github.com/Comcast/xCompass/blob/main/xCOMPASS/xCOMPASS.md) | Tooltip texts that provide more information to users    | ✅Done   | [rtrimana](https://github.com/rtrimana) |
 | [Mapping to LINDDUN](https://github.com/Comcast/xCompass/blob/main/xCOMPASS/xCOMPASS.md) | Mapping between each question to [LINDDUN threat tree](https://linddun.org/threat-trees/)     | ✅Done   | [rtrimana](https://github.com/rtrimana) |
 | [xCOMPASS spreadsheet](https://github.com/Comcast/xCompass/blob/main/xCOMPASS%20Spreadsheet%20v1.0.xlsx) | Spreadsheet that automatically evaluates xCOMPASS questionnaire     | ✅Done   | [rtrimana](https://github.com/rtrimana) |
-| [Restructuring of content](https://github.com/Comcast/xCompass/blob/main/xCOMPASS/xCOMPASS.md) | Restructuring of xCOMPASS content w.r.t. personas     | 🚧ToDo   | [rtrimana](https://github.com/rtrimana) |
+| [Restructuring of content](https://github.com/Comcast/xCompass/blob/main/xCOMPASS/xCOMPASS.md) | Restructuring of xCOMPASS content w.r.t. personas     | ✅Done   | [rtrimana](https://github.com/rtrimana) |
 | [Detailed Privacy Design](https://github.com/Comcast/xCompass/blob/main/xCOMPASS/xCOMPASS.md) | More detailed and clear privacy design strategy texts      | 🚧ToDo   | TBD |
 
 ---
