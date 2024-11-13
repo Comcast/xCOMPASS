@@ -31,6 +31,10 @@ We welcome all kinds of contributions to this framework, especially:
 
 However, if you have other ideas, albeit simple, please do not hesitate to connect with us. For contribution to xCOMPASS questionnaire, please find more information [here](https://github.com/Comcast/xCompass/edit/main/xCOMPASS/README.md#-how-to-contribute-).
 
+# Other Contributions
+
+We also welcome other kinds of contribution, such as a study on user experience using xCOMPASS, which may lead to feedback and recommendations to improve xCOMPASS as a privacy engineering framework.
+
 # Contributor License Agreement
 
 Before Comcast merges your code into the project you must sign the [Comcast Contributor License Agreement (CLA)](https://gist.github.com/ComcastOSS/a7b8933dd8e368535378cda25c92d19a).
