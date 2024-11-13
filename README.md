@@ -16,7 +16,7 @@ In this repository, you can also find [an Excel spreadsheet (xCOMPASS Spreadshee
 
 https://github.com/user-attachments/assets/6ab382fc-6e57-4b1f-b032-7fda6d47cd01
 
-# Why Do We Need It
+# Why We Need It
 
 It is key to identify privacy engineering requirements as early as possible in the software development lifecycle (SDL) of an application, preferrably when the application is being designed to incorporate privacy into its designed, namely privacy-by-design strategy. Unfortunately, identifying such requirements is challenging, mostly due to the following factors: 
 
