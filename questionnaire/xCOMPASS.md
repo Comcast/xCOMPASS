@@ -14,7 +14,7 @@ The following categories of information often come with special legislative prot
 | **Voice and Video**: Does the application collect voice or video data? <br /> *Answer "Yes" if the app collects voice/video data. Generally, voice data cannot be used for advertisement purposes, even if collected by or for a third-party partner. Organization must have an individual’s prior, written permission before collecting or recording any audio/visual or other sensor data from within their dwelling. For both video and voice data, specific consent obligations must be met. Please consult Privacy Legal for additional information.*|
 
 <h2> COMPASS Questionnaire </h2>
-The questions are categorized by <a href="https://www.fpc.gov/resources/fipps/">FIPPs (Fair Information Practice Principles)</a>, the principles which guide privacy regulation. This makes it easy to understand which category a question falls under. Each question has a persona linked - if you would like to see an example persona for each combination listed here, use <a href="personas.md">this</a> link.
+The questions are categorized by <a href="https://www.fpc.gov/resources/fipps/">FIPPs (Fair Information Practice Principles)</a>, the principles which guide privacy regulation. This makes it easy to understand which category a question falls under. Each question has a persona linked - please learn more about personas <a href="personas.md">here</a>.
 
 <h3 id="-accountability-and-auditing-"> Accountability and Auditing </h3>
 
