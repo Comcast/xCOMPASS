@@ -22,7 +22,7 @@ External maintainers come from various organizations and institutions, contribut
 
 ## Contact
 
-If you have any questions, concerns, or suggestions regarding xGitGuard, feel free to reach out to any of the maintainers listed above. We welcome your feedback and contributions!
+If you have any questions, concerns, or suggestions regarding xCOMPASS, feel free to reach out to any of the maintainers listed above. We welcome your feedback and contributions!
 
 ## Acknowledgments
 
