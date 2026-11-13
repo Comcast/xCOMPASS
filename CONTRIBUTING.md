@@ -25,11 +25,11 @@ We welcome all kinds of contributions to this framework, especially:
 - Changes to xCOMPASS questions, language, typos, fixes, etc.
 - Deeper dive into privacy design strategies.
 - Linking to other principles beyond FIPPS.
-- Additional personas beyond those already in [xCOMPASS.md](/xCOMPASS/personas.md), using the different combinations from the framework above.
+- Additional personas beyond those already in [questionnaire personas](questionnaire/personas.md), using the different combinations from the framework above.
 - Specific use cases of MAP (please create a new folder for each use case) in your industry, even if hypothetical.
 - Changes to language, typos, fixes, etc.
 
-However, if you have other ideas, albeit simple, please do not hesitate to connect with us. For contribution to xCOMPASS questionnaire, please find more information [here](https://github.com/Comcast/xCompass/edit/main/xCOMPASS/README.md#-how-to-contribute-).
+However, if you have other ideas, albeit simple, please do not hesitate to connect with us. For contributions to the xCOMPASS questionnaire, please review the [questionnaire overview](questionnaire/README.md).
 
 # Other Contributions
 
