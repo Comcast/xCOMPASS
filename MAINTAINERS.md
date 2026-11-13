@@ -18,7 +18,7 @@ External maintainers come from various organizations and institutions, contribut
 
 | Name               | GitHub Handle Card  | Affiliation                       |
 |--------------------|----------------------|-----------------------------------|
-| TBD   | TBD | TBD |
+| Mangesh Raut   | [![Mangesh Raut](https://img.shields.io/badge/GitHub-mangeshraut712-blue?logo=github)](https://github.com/mangeshraut712) | IoasiZ / Drexel University |
 
 ## Contact
 
